@@ -6,7 +6,7 @@ Já ouviu falar do termo OCR? Não!? Ele é um acrônimo para Optical Character 
 
 ESPECIALISTA
 
-##### Cassiano Peres
+#### Cassiano Peres
 Instrutor, Digital Innovation One
 
 https://web.digitalinnovation.one/lab/extraindo-textos-utilizando-ocr-com-amazon-textract/learning/4fe00458-5eb9-41b6-858b-502179792b50
